@@ -1,6 +1,7 @@
-# <span style="color:#1f6feb">📘 Thông Tin</span>
+# <span style="color:blue">📘 Thông Tin</span>
 
 ## 👤 <span style="color:#0b5394">Người soạn:</span> **Nguyễn Việt Anh**
 
 ## 📝 <span style="color:#38761d">Ghi chú:</span>  
 <span style="color:#333333">Đây là tài liệu của khoa <b>Công nghệ Thông tin</b>.Nếu mọi người có góp ý, vui lòng liên hệ qua</span> 💬[Facebook](https://www.facebook.com/viet.anh.nguyen.756213)
+
